@@ -1,0 +1,42 @@
+[
+    {
+      "question": "Which of the following HTML elements is used to create a hyperlink?",
+      "answers": ["<links", "<a>", "<href>", "<hyperlink>"]
+    },
+    {
+      "question": "What does CSS stand for?",
+      "answers": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"]
+    },
+    {
+      "question": "Which HTML attribute is used to define inline styles?",
+      "answers": ["style", "class", "styles", "font"]
+    },
+    {
+      "question": "In JavaScript, which symbol is used for comments?",
+      "answers": ["//", "#", "/* */", "<!-- -->"]
+    },
+    {
+      "question": "Which of the following is used to send a form’s data to a server in HTML?",
+      "answers": ["send", "get", "method", "submit"]
+    },
+    {
+      "question": "Which HTML tag is used to define an unordered list?",
+      "answers": ["<ul>", "<ol>", "<li>", "<lists>"]
+    },
+    {
+      "question": "Which of the following is the correct syntax to include an external JavaScript file in HTML?",
+      "answers": ["<script src=filename>", "<script href=filename>", "<js src=filename>", "<javascript src=filename>"]
+    },
+    {
+      "question": "Which property is used to change the background color in CSS?",
+      "answers": ["color", "background-color", "bgcolor", "background"]
+    },
+    {
+      "question": "What is the correct HTML element for inserting a line break?",
+      "answers": ["<br>", "<lb>", "<breaks>", "<hr>"]
+    },
+    {
+      "question": "Which of the following HTTP methods is used to request data from a server?",
+      "answers": ["POST", "GET", "PUT", "DELETEr"]
+    }
+  ]
