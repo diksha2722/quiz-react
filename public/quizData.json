@@ -1,42 +1,52 @@
 [
     {
       "question": "Which of the following HTML elements is used to create a hyperlink?",
-      "answers": ["<links", "<a>", "<href>", "<hyperlink>"]
+      "answers": ["<links", "<a>", "<href>", "<hyperlink>"],
+      "correctAnswer": "<a>"
     },
     {
       "question": "What does CSS stand for?",
-      "answers": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"]
+      "answers": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+      "correctAnswer": "Cascading Style Sheets"
     },
     {
       "question": "Which HTML attribute is used to define inline styles?",
-      "answers": ["style", "class", "styles", "font"]
+      "answers": ["style", "class", "styles", "font"],
+      "correctAnswer": "style"
     },
     {
       "question": "In JavaScript, which symbol is used for comments?",
-      "answers": ["//", "#", "/* */", "<!-- -->"]
+      "answers": ["//", "#", "/* */", "<!-- -->"],
+      "correctAnswer": "style"
     },
     {
       "question": "Which of the following is used to send a form’s data to a server in HTML?",
-      "answers": ["send", "get", "method", "submit"]
+      "answers": ["send", "get", "method", "submit"],
+      "correctAnswer": "style"
     },
     {
       "question": "Which HTML tag is used to define an unordered list?",
-      "answers": ["<ul>", "<ol>", "<li>", "<lists>"]
+      "answers": ["<ul>", "<ol>", "<li>", "<lists>"],
+      "correctAnswer": "style"
     },
     {
       "question": "Which of the following is the correct syntax to include an external JavaScript file in HTML?",
-      "answers": ["<script src=filename>", "<script href=filename>", "<js src=filename>", "<javascript src=filename>"]
+      "answers": ["<script src=filename>", "<script href=filename>", "<js src=filename>", "<javascript src=filename>"],
+      "correctAnswer": "style"
     },
     {
       "question": "Which property is used to change the background color in CSS?",
-      "answers": ["color", "background-color", "bgcolor", "background"]
+      "answers": ["color", "background-color", "bgcolor", "background"],
+      "correctAnswer": "style"
     },
     {
       "question": "What is the correct HTML element for inserting a line break?",
-      "answers": ["<br>", "<lb>", "<breaks>", "<hr>"]
+      "answers": ["<br>", "<lb>", "<breaks>", "<hr>"],
+      "correctAnswer": "style"
     },
     {
       "question": "Which of the following HTTP methods is used to request data from a server?",
-      "answers": ["POST", "GET", "PUT", "DELETEr"]
+      "answers": ["POST", "GET", "PUT", "DELETEr"],
+      "correctAnswer": "style"
     }
   ]
