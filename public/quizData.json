@@ -17,36 +17,36 @@
     {
       "question": "In JavaScript, which symbol is used for comments?",
       "answers": ["//", "#", "/* */", "<!-- -->"],
-      "correctAnswer": "style"
+      "correctAnswer": "#"
     },
     {
       "question": "Which of the following is used to send a form’s data to a server in HTML?",
       "answers": ["send", "get", "method", "submit"],
-      "correctAnswer": "style"
+      "correctAnswer": "submit"
     },
     {
       "question": "Which HTML tag is used to define an unordered list?",
       "answers": ["<ul>", "<ol>", "<li>", "<lists>"],
-      "correctAnswer": "style"
+      "correctAnswer": "<ul>"
     },
     {
       "question": "Which of the following is the correct syntax to include an external JavaScript file in HTML?",
       "answers": ["<script src=filename>", "<script href=filename>", "<js src=filename>", "<javascript src=filename>"],
-      "correctAnswer": "style"
+      "correctAnswer": "<script src=filename>e"
     },
     {
       "question": "Which property is used to change the background color in CSS?",
       "answers": ["color", "background-color", "bgcolor", "background"],
-      "correctAnswer": "style"
+      "correctAnswer": "background-color"
     },
     {
       "question": "What is the correct HTML element for inserting a line break?",
       "answers": ["<br>", "<lb>", "<breaks>", "<hr>"],
-      "correctAnswer": "style"
+      "correctAnswer": "<br>"
     },
     {
       "question": "Which of the following HTTP methods is used to request data from a server?",
-      "answers": ["POST", "GET", "PUT", "DELETEr"],
-      "correctAnswer": "style"
+      "answers": ["POST", "GET", "PUT", "DELETE"],
+      "correctAnswer": "GET"
     }
   ]
